@@ -21,3 +21,7 @@ Proje, Java programlama dilinde geliştirildi ve aşağıdaki teknoloji ve küt�
 - SQLite veritabanı
 
 Kaynak : https://www.youtube.com/watch?v=ARpn-1FPNE4&list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118&index=2&ab_channel=CodinginFlow
+
+
+https://github.com/kadersuutlu/Android-Architecture-Components/assets/80063396/8ca87f12-d510-4233-a8a1-4286d0e2b91f
+
